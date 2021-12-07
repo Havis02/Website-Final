@@ -1,11 +1,44 @@
-/*Global Styles*/
+/* Global Styles */
 
 body {
     background-color: rgb(255, 229, 199);
 }
 
-/*type styles*/
-h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+/* type styles */
+#type_title {
+    font-family: 'Raleway', sans-serif;
     color: white;
+    text-align: right;
+    text-shadow: 2px 2px black;
+    background-color: rgb(235, 202, 255);
+    padding: 10px 0px 10px 0px;
+
+}
+
+#main_title {
+    color: white;
+    font-family: acier-bat-noir,sans-serif;
+    font-size: 80px;
+    font-weight: 100;
+    font-style: normal;
+    text-shadow: -2px 2px rgb(96, 71, 155) ;
+    background-color: rgb(229, 151, 200);
+    width: 320px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+    
+    
+
+}
+footer {
+    background-color: rgb(229, 151, 200);
+    height: 45px;
+    text-align: center;
+    text-shadow: -1.5px 1.7px rgb(63, 25, 63);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    font-weight: 700;
+    color: whitesmoke;
+    padding: 15px 0px;
 }
