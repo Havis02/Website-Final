@@ -75,29 +75,29 @@ footer {
 }
 .typeaxial {
      display: inline-block; 
-     margin: 0 10px;
-     width: 100px;;
-     
-
+     margin: 0 15px;
+     width: 100px;
+    
 }
 .typeaxial img {
     float: left;
-
+ 
 }
 .typegrid {
     display: inline-block;
-    margin: 5 0%;
+    margin: 20px 0;
     width: 100%;
+
 
 }
 .typegrid img {
    float: right;
-   
+
 
 }
 .typeradial {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 15px;
     width: 100px;
 }
 .typeradial img {
@@ -105,7 +105,7 @@ footer {
 }
 .typedil {
     display: inline-block;
-    margin: 5 0%;
+    margin: 20px 0;
     width: 100%;
 }
 .typedil img {
@@ -113,7 +113,7 @@ footer {
 }
 .typetrans {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 15px;
     width: 100px;
 }
 .typetrans img {
@@ -121,7 +121,7 @@ footer {
 }
 .typebil {
     display: inline-block;
-    margin: 5 0%;
+    margin: 20px 0;
     width: 100%;
 }
 .typebil img {
@@ -130,7 +130,7 @@ footer {
 }
 .typemod {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 15px;
     width: 100px;
 }
 .typemod img {
@@ -138,7 +138,7 @@ footer {
 }
 .typerandom {
     display: inline-block;
-    margin: 5 0%;
+    margin: 20px 0;
     width: 100%;
 }
 .typerandom img {
