@@ -45,6 +45,7 @@ button:active {
     transform: translateX(4px);
 }
 
+
 #main_title {
     color: white;
     font-family: acier-bat-noir,sans-serif;
@@ -71,4 +72,76 @@ footer {
     font-weight: 700;
     color: whitesmoke;
     padding: 15px 0px;
+}
+.typeaxial {
+     display: inline-block; 
+     margin: 0 10px;
+     width: 100px;;
+     
+
+}
+.typeaxial img {
+    float: left;
+
+}
+.typegrid {
+    display: inline-block;
+    margin: 5 0%;
+    width: 100%;
+
+}
+.typegrid img {
+   float: right;
+   
+
+}
+.typeradial {
+    display: inline-block;
+    margin: 0 10px;
+    width: 100px;
+}
+.typeradial img {
+    float: left;
+}
+.typedil {
+    display: inline-block;
+    margin: 5 0%;
+    width: 100%;
+}
+.typedil img {
+    float: right;
+}
+.typetrans {
+    display: inline-block;
+    margin: 0 10px;
+    width: 100px;
+}
+.typetrans img {
+    float: left;
+}
+.typebil {
+    display: inline-block;
+    margin: 5 0%;
+    width: 100%;
+}
+.typebil img {
+    float: right;
+
+}
+.typemod {
+    display: inline-block;
+    margin: 0 10px;
+    width: 100px;
+}
+.typemod img {
+    float: left;
+}
+.typerandom {
+    display: inline-block;
+    margin: 5 0%;
+    width: 100%;
+}
+.typerandom img {
+    float: right;
+
 }
