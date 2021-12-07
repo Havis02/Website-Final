@@ -42,7 +42,7 @@ button:hover {
 button:active {
     background-color: rgb(255, 161, 181);
     box-shadow: 0 5px rgb(168, 53, 172);
-    transform: translateY(4px);
+    transform: translateX(4px);
 }
 
 #main_title {
