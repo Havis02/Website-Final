@@ -7,12 +7,42 @@ body {
 /* type styles */
 #type_title {
     font-family: 'Raleway', sans-serif;
+    font-size: 40px;
     color: white;
     text-align: right;
-    text-shadow: 2px 2px black;
+    text-shadow: -3px 2px black;
     background-color: rgb(235, 202, 255);
     padding: 10px 0px 10px 0px;
 
+}
+ul {
+    list-style-type: none;
+    padding: 20px;
+}
+.type-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+button {
+    border: 3px solid rgb(255, 187, 108);
+    border-radius: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    padding: 8px;
+    margin: 5px;
+    transition-duration: .3s;
+
+}
+button:hover {
+    background-color: rgb(252, 173, 255);
+    color: rgb(255, 233, 200);
+}
+button:active {
+    background-color: rgb(255, 161, 181);
+    box-shadow: 0 5px rgb(168, 53, 172);
+    transform: translateY(4px);
 }
 
 #main_title {
