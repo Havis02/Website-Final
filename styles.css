@@ -30,8 +30,8 @@ button {
     border-radius: 5px;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
-    padding: 8px;
-    margin: 5px;
+    padding: 10px;
+    margin: 12px;
     transition-duration: .3s;
 
 }
