@@ -296,4 +296,9 @@ footer {
 .section-one {
     background-color: violet;
 }
-  
+.caption {
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
