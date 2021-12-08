@@ -251,7 +251,7 @@ footer {
 .rectangle {
     height: 150px;
     width: 300px;
-    background-color: rgb(185, 0, 0);
+    background-color: rgb(255, 173, 126);
     
   }
 .pointer {
@@ -259,6 +259,15 @@ footer {
     height: 40px;
     position: relative;
     background: rgb(255, 144, 196);
+    text-indent: 10px;
+    letter-spacing: 2px;
+    white-space: nowrap;
+    line-height: 0.3;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    
   }
 .pointer:after {
     content: "";
@@ -270,6 +279,7 @@ footer {
     border-left: 20px solid rgb(255, 229, 199);
     border-top: 20px solid transparent;
     border-bottom: 20px solid transparent;
+    box-shadow: rgb(117, 57, 117);
   }
 .pointer:before {
     content: "";
