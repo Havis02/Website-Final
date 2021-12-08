@@ -80,8 +80,10 @@ footer {
 }
 .typeaxial {
      display: inline-block; 
+     text-align: right;
      margin: 0 15px;
      width: 100px;
+     
     
 }
 .typeaxial img {
