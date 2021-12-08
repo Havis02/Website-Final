@@ -254,5 +254,36 @@ footer {
     background-color: rgb(185, 0, 0);
     
   }
-
+.pointer {
+    width: 200px;
+    height: 40px;
+    position: relative;
+    background: rgb(255, 144, 196);
+  }
+.pointer:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 20px solid rgb(255, 229, 199);
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+  }
+.pointer:before {
+    content: "";
+    position: absolute;
+    right: -20px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 20px solid rgb(255, 144, 196);
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+  }
+    
+.mainposter {
+    
+}
   
