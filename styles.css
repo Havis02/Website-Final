@@ -162,3 +162,45 @@ footer {
     text-align: right;
 
 }
+.gridtext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+.radialtext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+.diltext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+.transtext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+.biltext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+.modtext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+.randomtext {
+    color: rgb(24, 0, 36);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
