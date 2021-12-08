@@ -6,9 +6,11 @@ body {
 
 /* type styles */
 #type_title {
-    font-family: 'Raleway', sans-serif;
-    font-size: 40px;
     color: white;
+    font-family: acier-bat-noir,sans-serif;
+    font-size: 80px;
+    font-weight: 100;
+    font-style: normal;
     text-align: right;
     text-shadow: -3px 2px black;
     background-color: rgb(235, 202, 255);
