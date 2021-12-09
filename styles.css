@@ -254,6 +254,12 @@ button:active {
     font-style: italic;
     font-family: 'Raleway', sans-serif;
     color: white;
+    padding-left: 6%;
+    padding-top: 2.5%;
+    padding-right: 5%;
+    background-color: rgb(235, 202, 255);
+    height: 250px;
+    text-shadow: rgb(49, 49, 100);
 }
 .container {
     display: flex;
@@ -304,4 +310,15 @@ footer {
     letter-spacing: 3px;
     background-color: rgb(199, 219, 255);
 
+}
+#reflection {
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding-top: 1.5%;
+    padding-right: 4%;
+    padding-left: 4%;
+    background-color: #FAA996;
+    height: 260px;
 }
