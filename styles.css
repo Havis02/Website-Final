@@ -298,3 +298,10 @@ footer {
     padding: 15px 0px;
     
 }
+#typetit {
+    font-family: fino-sans,sans-serif;
+    font-weight: 900;
+    letter-spacing: 3px;
+    background-color: rgb(199, 219, 255);
+
+}
