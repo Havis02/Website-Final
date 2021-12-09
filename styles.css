@@ -67,17 +67,6 @@ button:active {
     
 
 }
-footer {
-    background-color: rgb(229, 151, 200);
-    height: 45px;
-    text-align: center;
-    text-shadow: -1.5px 1.7px rgb(63, 25, 63);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: smaller;
-    font-weight: 700;
-    color: whitesmoke;
-    padding: 15px 0px;
-}
 
 .typeaxial img {
     float: left;
@@ -296,4 +285,16 @@ footer {
 }
 .frames {
     align-items: center;
+}
+footer {
+    background-color: rgb(229, 151, 200);
+    height: 45px;
+    text-align: center;
+    text-shadow: -1.5px 1.7px rgb(63, 25, 63);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    font-weight: 700;
+    color: whitesmoke;
+    padding: 15px 0px;
+    
 }
