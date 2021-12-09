@@ -323,3 +323,8 @@ footer {
     background-color: rgb(235, 202, 255);
     padding: 10px 0px 10px 0px;
 }
+
+.main{
+    margin: 10%;
+    align-items: center;
+}
