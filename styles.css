@@ -105,7 +105,9 @@ button:active {
 
 .axialtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: left;
     padding-top: 15%;
@@ -113,49 +115,63 @@ button:active {
 }
 .gridtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: right;
     padding-top: 15%;
 }
 .radialtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: left;
     padding-top: 15%;
 }
 .diltext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: right;
     padding-top: 15%;
 }
 .transtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: left;
     padding-top: 15%;
 }
 .biltext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: right;
     padding-top: 15%;
 }
 .modtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: left;
     padding-top: 15%;
 }
 .randomtext {
     color: rgb(24, 0, 36);
-    font-family: 'Raleway', sans-serif;
+    font-family: dinosaur,sans-serif;
+    font-weight: 535;
+    font-style: normal;
     font-size: 18px;
     text-align: right;
     padding-top: 15%;
