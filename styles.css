@@ -375,6 +375,8 @@ footer {
     font-family: dunbar-low,sans-serif;
     font-weight: 500;
     font-style: normal;
+    background-color: aliceblue;
+    height: 30%;
 }
 #paras {
     font-family:'Raleway', sans-serif;
@@ -395,4 +397,9 @@ footer {
     font-family:'Raleway', sans-serif;
     font-size: 15px;
     
+}
+#end {
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    color: aliceblue;
 }
