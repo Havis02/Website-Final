@@ -393,7 +393,7 @@ footer {
 #end {
     font-family:'Raleway', sans-serif;
     font-size: 20px;
-    color: aliceblue;
+    color: rgb(255, 229, 199);
 }
 .flowchart {
     display: flex;
@@ -446,51 +446,63 @@ footer {
 .imagetextre {
     filter: drop-shadow(7px 7px 3px #72497a);
 }
+.aboutme {
+    background-color: rgb(255, 189, 203);
+    height: fit-content;
+    width: fit-content;
+}
 #amtitle {
     color: white;
     font-family: acier-bat-noir,sans-serif;
     font-size: 50px;
     font-weight: 100;
     font-style: normal;
+    text-shadow: -3px 2px rgb(117, 57, 117);
     padding-top: 30px;
-    padding-left: 15px;
-    background-color: rgb(255, 159, 180);
+    padding-left: 40px;
+    background-color: rgb(255, 142, 204);
     height: 80px;
+    width: 300px;
 }
 #oz {
-    color: white;
+    color: rgb(255, 243, 234);
     font-family:'Raleway', sans-serif;
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    text-shadow: -2.6px 1.5px rgb(117, 57, 117);
 }
 #student {
-    color: white;
+    color: rgb(255, 243, 234);
     font-family:'Raleway', sans-serif;
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    text-shadow: -2.6px 1.5px rgb(117, 57, 117);
 }
 #hobby {
-    color: white;
+    color: rgb(255, 243, 234);
     font-family:'Raleway', sans-serif;
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    text-shadow: -2.6px 1.5px rgb(117, 57, 117);
 }
 #cv {
-    color: white;
+    color: rgb(255, 243, 234);
     font-family:'Raleway', sans-serif;
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    text-shadow: -2.6px 1.5px rgb(117, 57, 117);
 }
 #insta {
-    color: white;
+    color: rgb(255, 243, 234);
     font-family:'Raleway', sans-serif;
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    text-shadow: -2.6px 1.5px rgb(117, 57, 117);
 }
 #yoondaze {
     color: white;
@@ -498,4 +510,13 @@ footer {
     font-size: 33px;
     font-weight: 100;
     font-style: italic;
+    background-color: #ffa3ba;
+    width: fit-content;
+    filter: drop-shadow(7px 7px 3px #72497a);
+}
+.ohlogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
 }
