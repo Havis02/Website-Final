@@ -415,3 +415,9 @@ footer {
     background-color: rgb(255, 159, 180);
     height: 80px;
 }
+.linkimages {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
