@@ -409,3 +409,17 @@ footer {
     padding: 10%;
     padding-left: 10%;
 }
+#chart {
+    padding-right: 10%;
+}
+#ftitle {
+    color: white;
+    font-family: acier-bat-noir,sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    font-style: normal;
+    padding-top: 30px;
+    padding-left: 15px;
+    background-color: rgb(255, 159, 180);
+    height: 80px;
+}
