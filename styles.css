@@ -57,6 +57,7 @@ button:active {
     font-size: 80px;
     font-weight: 100;
     font-style: normal;
+    padding-left: 3%;
     text-shadow: -2px 2px rgb(96, 71, 155) ;
     background-color: rgb(229, 151, 200);
 }
