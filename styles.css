@@ -50,8 +50,7 @@ button:active {
     transform: translateX(4px);
 }
 
-
-#main_title {
+#main_titles {
     color: white;
     font-family: acier-bat-noir,sans-serif;
     font-size: 80px;
@@ -59,13 +58,6 @@ button:active {
     font-style: normal;
     text-shadow: -2px 2px rgb(96, 71, 155) ;
     background-color: rgb(229, 151, 200);
-    width: 320px;
-    position: relative;
-    left: 30px;
-    top: 20px;
-    
-    
-
 }
 
 .typeaxial img {
