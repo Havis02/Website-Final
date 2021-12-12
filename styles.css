@@ -446,3 +446,56 @@ footer {
 .imagetextre {
     filter: drop-shadow(7px 7px 3px #72497a);
 }
+#amtitle {
+    color: white;
+    font-family: acier-bat-noir,sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    font-style: normal;
+    padding-top: 30px;
+    padding-left: 15px;
+    background-color: rgb(255, 159, 180);
+    height: 80px;
+}
+#oz {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
+#student {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
+#hobby {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
+#cv {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
+#insta {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
+#yoondaze {
+    color: white;
+    font-family:'Raleway', sans-serif;
+    font-size: 33px;
+    font-weight: 100;
+    font-style: italic;
+}
