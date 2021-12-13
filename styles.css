@@ -565,3 +565,9 @@ footer {
     padding: 5%;
     filter: drop-shadow(7px 7px 3px #72497a);
 }
+.cvimage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
